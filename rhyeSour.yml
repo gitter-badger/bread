@@ -1,0 +1,12 @@
+rezept: Roggensauer 100%
+
+sauerteig: &sauerteig
+    Mehl 100
+    Wasser 80
+    Anstellgut 10
+
+hauptteig:
+    *sauerteig
+    Mehl 100
+    Wasser 77
+    Salz 4
